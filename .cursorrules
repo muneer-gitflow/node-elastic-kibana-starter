@@ -1,0 +1,4 @@
+Create a easy to test app for loggin with elk stack
+use a node js  app with fastify  which will log via winston
+need to use docker compose to run the app and elk stack
+should not get any permission error when running docker compose
